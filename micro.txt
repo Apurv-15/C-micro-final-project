@@ -1,0 +1,19 @@
+**** Students information ****
+
+Student's Name : ap ap
+Father's Name : Student's Age : 11
+Student's gender : male
+Adhaar card number : 2332443
+Parent's phone no : 232443
+**** Students information ****
+
+Student's Name : chai vi
+Father's Name : Student's Age : 17
+Student's gender : m
+Adhaar card number : 634523416
+Parent's phone no : 7769950111
+Student's Name : casd asd
+Father's Name : Student's Age : 17
+Student's gender : m
+Adhaar card number : 223256231
+Parent's phone no : 35231423
